@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# Load resources
+
+xrdb -merge .Xresources
+
+export GTK_OVERLAY_SCROLLING=0
+# Fire up apps
+setxkbmap -layout "us,lt,ru" -option "grp:ctrl_alt_toggle" 
+
+exec fvwm
