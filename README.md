@@ -18,3 +18,4 @@ Screens:
 ![Screenshot](screen_4.png?raw=true "Terms")
 ![Screenshot](screen_5.png?raw=true "Apps")
 ![Screenshot](screen_6.png?raw=true "Icons")
+![Screenshot](screen_7.png?raw=true "Geany")
