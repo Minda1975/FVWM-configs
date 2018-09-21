@@ -13,7 +13,7 @@ My prefered IDE is Geany, so i included Geany config and color schemes that rele
 
 In this repo you will find Gtk2/3 themes (Fantome, Lumiere, Noita, Ocha, Tee and Vestica) and icons (Arc, Canta, ePapirus, Numix, Numix-Circle, Numix-Circle-Light, Numix-Light, Papirus, Papirus-Adapta, Papirus-Adapta-Nokto, Papirus-Dark and Papirus-Light). These themes and icons are very relevant to the overall picture.
 
-Bash is my default terminal, so it’s very appealing to get the best out of it.  Running a Git command without knowing the current branch is like running rm or mkdir in the terminal without knowning the current directory is dangerous and error-prone. So i use [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt)
+Bash is my default terminal, so it’s very appealing to get the best out of it.  Running a Git command without knowing the current branch is like running rm or mkdir in the terminal without knowning the current directory is dangerous and error-prone. So i use [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt).
 
 Screens:
 ![Screenshot](screen.png?raw=true "Clear")
