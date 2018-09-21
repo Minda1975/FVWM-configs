@@ -2,8 +2,8 @@
 #include ".xrdb/rofi/nord"
 
 
-URxvt.font: xft:FreeMono:size=10 :antialias=true:autohint=false
-URxvt.boldFont: xft:FreeMono:Bold:size=10 :antialias=true:autohint=false
+URxvt.font: xft:FantasqueSansMono Nerd Font:size=10 :antialias=true:autohint=false
+URxvt.boldFont: xft:FantasqueSansMono Nerd Font:Bold:size=10 :antialias=true:autohint=false
 URxvt.geometry: 		72x18
 URxvt*letterSpace: 	    0
 URxvt.lineSpace: 		0

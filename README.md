@@ -1,5 +1,6 @@
 # FVWM
-My FVWM configs and other stuff which fits into a common style
+My FVWM configs and other stuff which fits into a common style.
+
 This is personal FVWM window manager configuration files, plus other useful stuff.
 
 What is FVWM? FVWM is an extremely powerful ICCCM-compliant multiple virtual desktop window manager for the X Window system. Originally a twm derivative, FVWM has evolved into a powerful and highly configurable environment for Unix-like systems. 
@@ -11,7 +12,8 @@ Also, i put configs for mpd, ncmpcpp (a simple ncmpcpp config, with album art su
 My prefered IDE is Geany, so i included Geany config and color schemes that relevant to the overall picture.
 
 In this repo you will find Gtk2/3 themes (Fantome, Lumiere, Noita, Ocha, Tee and Vestica) and icons (Arc, Canta, ePapirus, Numix, Numix-Circle, Numix-Circle-Light, Numix-Light, Papirus, Papirus-Adapta, Papirus-Adapta-Nokto, Papirus-Dark and Papirus-Light). These themes and icons are very relevant to the overall picture.
-All this good is working in Debian 9.5
+
+Bash is my default terminal, so it’s very appealing to get the best out of it.  Running a Git command without knowing the current branch is like running rm or mkdir in the terminal without knowning the current directory is dangerous and error-prone. So i use [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt)
 
 Screens:
 ![Screenshot](screen.png?raw=true "Clear")
@@ -22,3 +24,4 @@ Screens:
 ![Screenshot](screen_5.png?raw=true "Apps")
 ![Screenshot](screen_6.png?raw=true "Icons")
 ![Screenshot](screen_7.png?raw=true "Geany")
+![Screenshot](screen_8.png?raw=true "Bash")
