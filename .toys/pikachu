@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # just a command to launch urxvt with pikachu background
-# replace zsh with bash if are using bash
 urxvt -hold -pixmap ~/.pokemon/pikachu.jpg \
 -e bash \
 -c "printf '\033]708;rgb:f7/de/82\007'; bash" # clean up the terminal padding

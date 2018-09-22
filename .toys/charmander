@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # just a command to launch urxvt with charmander background
-# replace zsh with bash if are using bash
 urxvt -hold -pixmap ~/.pokemon/charmander.jpg \
 -e bash \
 -c "printf '\033]708;rgb:f4/b1/86\007'; bash" # clean up the terminal padding

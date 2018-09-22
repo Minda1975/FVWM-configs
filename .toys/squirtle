@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # just a command to launch urxvt with squirtle background
-# replace zsh with bash if are using bash
 urxvt -hold -pixmap ~/.pokemon/squirtle.jpg \
 -e bash \
 -c "printf '\033]708;rgb:84/c1/d4\007'; bash" # clean up the terminal padding
