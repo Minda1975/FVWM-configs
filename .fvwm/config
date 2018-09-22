@@ -24,7 +24,7 @@ SetEnv icons $[HOME]/.fvwm/icons
 # Start or restart
 DestroyFunc StartFunction
 AddToFunc   StartFunction
-+ I Test Exec exec fvwm-root ~/.fvwm/images/forest.png
++ I Test Exec exec fvwm-root ~/.fvwm/images/girl.png
 # Only execute once
 DestroyFunc InitFunction
 AddToFunc InitFunction
