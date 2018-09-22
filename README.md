@@ -26,4 +26,4 @@ Screens:
 ![Screenshot](screen_7.png?raw=true "Geany")
 ![Screenshot](screen_8.png?raw=true "Bash")
 ![Screenshot](screen_9.png?raw=true "Fakefetch")
-![Screenshot](screen_9.png?raw=true "Pokemon")
+![Screenshot](screen_10.png?raw=true "Pokemon")
