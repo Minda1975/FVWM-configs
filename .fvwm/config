@@ -109,7 +109,7 @@ IgnoreModifiers L25
 # Launching apps
 Key space A 4 Exec $[scripts]/rofia
 Key Print A A Exec $[scripts]/screeny
-Key Return A 4S Exec $[scripts]/urdraw
+Key Return A 4S Exec $[scripts]/screenshot
 Key Return A 4 Exec urxvt
 Key w A 4S Exec firefox
 Key f A 4S Exec pcmanfm
