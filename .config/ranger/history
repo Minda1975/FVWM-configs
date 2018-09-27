@@ -1,0 +1,14 @@
+1
+shell 
+
+mkdir Star_Wars
+mkdir John_Wick
+mkdir Pitbull
+mkdir Deadpool
+mkdir Хищник
+mkdir Чужой
+open_with 
+mkdir Великий_Уравнитель
+mkdir Бегущий_в_Лабиринте
+mkdir Blade_Runner
+delete
