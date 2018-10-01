@@ -24,7 +24,7 @@ SetEnv icons $[HOME]/.fvwm/icons
 # Start or restart
 DestroyFunc StartFunction
 AddToFunc   StartFunction
-+ I Test Exec exec fvwm-root ~/.fvwm/images/girl.png
++ I Test Exec exec fvwm-root ~/.fvwm/images/4.png
 # Only execute once
 DestroyFunc InitFunction
 AddToFunc InitFunction
@@ -224,6 +224,7 @@ AddToMenu   MenuPrograms "Shortcut" Title
 Test (x audacious) + "Audacious" Exec exec audacious
 Test (x firefox) + "Firefox" Exec exec firefox
 Test (x geany) + "Geany" Exec exec geany
+Test (x gimp) + "Gimp" Exec exec gimp
 Test (x qbittorrent) + "Qbittorrent" Exec exec qbittorrent
 Test (x libreoffice) + "Libreoffice" Exec exec libreoffice
 Test (x pcmanfm) + "Pcmanfm" Exec exec pcmanfm
