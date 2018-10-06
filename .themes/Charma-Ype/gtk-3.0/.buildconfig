@@ -1,0 +1,10 @@
+[default]
+name=Default
+runtime=host
+config-opts=
+run-opts=
+prefix=/home/guilmour/.cache/gnome-builder/install/gtk-3.0/host
+app-id=
+postbuild=
+prebuild=
+default=true

@@ -1,0 +1,12 @@
+[Desktop Entry]
+TNightingale=X-GNOME-Metatheme
+Name=Charma-Nightingale
+Comment=Dynamicolor theme based on Tetra, Adwaita and elementary (purple-gray/gold)
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Charma-Nightingale
+MetacityTheme=Charma-Nightingale
+IconTheme=gnome
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close

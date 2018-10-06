@@ -11,7 +11,7 @@ Also, i put configs for mpd, ncmpcpp (a simple ncmpcpp config, with album art su
  
 My prefered IDE is Geany, so i included Geany config and color schemes that relevant to the overall picture.
 
-In this repo you will find Gtk2/3 themes (Fantome, Lumiere, Noita, Ocha, Tee and Vestica) and icons (Arc, Canta, ePapirus, Numix, Numix-Circle, Numix-Circle-Light, Numix-Light, Papirus, Papirus-Adapta, Papirus-Adapta-Nokto, Papirus-Dark and Papirus-Light). These themes and icons are very relevant to the overall picture.
+In this repo you will find Gtk2/3 themes (Fantome, Lumiere, Noita, Ocha, Tee, Vestica, Charma-Nightingale, Charma-Ype, Forest-Dark, Forest-Darker and Forest-Light) and icons (Arc, Canta, ePapirus, Numix, Numix-Circle, Numix-Circle-Light, Numix-Light, Papirus, Papirus-Adapta, Papirus-Adapta-Nokto, Papirus-Dark and Papirus-Light). These themes and icons are very relevant to the overall picture.
 
 Bash is my default terminal, so it’s very appealing to get the best out of it.  Running a Git command without knowing the current branch is like running rm or mkdir in the terminal without knowning the current directory. It is dangerous and error-prone. So i use [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt).
 
