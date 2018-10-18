@@ -25,6 +25,7 @@ SetEnv icons $[HOME]/.fvwm/icons
 DestroyFunc StartFunction
 AddToFunc   StartFunction
 + I Test Exec exec fvwm-root ~/.fvwm/images/4.png
++ I Module FvwmEvent FirstEvent
 # Only execute once
 DestroyFunc InitFunction
 AddToFunc InitFunction
@@ -42,7 +43,7 @@ AddToFunc Thumbnail
 DestroyFunc DeThumbnail
 AddToFunc DeThumbnail
 + I PipeRead 'bash $[scripts]/dethumb "$[w.id]" "$[cache]"'
-*FvwmEvent: deiconify DeThumbnail
+*FirstEvent: deiconify DeThumbnail
 
 ## To Toggle The Titlebar
 DestroyFunc ToggleTitle
